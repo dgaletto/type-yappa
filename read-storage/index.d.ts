@@ -1,4 +1,4 @@
-export namespace ReadStorage {
+export module ReadStorage {
     export interface CommentListUser {
         name: string;
         profilePic: string;
